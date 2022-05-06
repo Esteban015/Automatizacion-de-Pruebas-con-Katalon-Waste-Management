@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tipo de Residuo</name>
+   <tag></tag>
+   <elementGuidId>103a264a-2f5c-4875-b072-9650ac69319b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='2']/ul/li/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#2 > ul.nav > li.nav-item > a.nav-link > span.sidebar-normal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1e63ccac-0ab0-4a33-8cfc-dd9d227a7cff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidebar-normal</value>
+      <webElementGuid>ef8ea6a1-9916-40a2-a6b1-201533399742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tipo de Residuo</value>
+      <webElementGuid>346ae8d1-c2ff-46be-8f82-acf7739c38dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;2&quot;)/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/span[@class=&quot;sidebar-normal&quot;]</value>
+      <webElementGuid>4fd45da8-0718-4894-b537-b7c8d1de4bff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c8dcddd9-9e7b-4624-8b17-3e7fb35acbae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidebar-normal</value>
+      <webElementGuid>1be8e9aa-dc3f-4685-ab3b-b4637a83de44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tipo de Residuo</value>
+      <webElementGuid>6971ca24-e971-42aa-a370-36b206c08390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;2&quot;)/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/span[@class=&quot;sidebar-normal&quot;]</value>
+      <webElementGuid>bd40c7ce-6d0b-40c1-8b60-8057591d4863</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='2']/ul/li/a/span[2]</value>
+      <webElementGuid>2a10f0a7-efd1-49f3-a33d-24c433169e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='grain'])[1]/following::span[1]</value>
+      <webElementGuid>0c6c30a6-179e-452b-8f48-3352f7d9f027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='build'])[1]/following::span[2]</value>
+      <webElementGuid>f96f2007-80f5-4aa2-8848-c4890f0536bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rv_hookup'])[1]/preceding::span[1]</value>
+      <webElementGuid>f1db937c-3e1e-429e-8e98-6abf25fdf474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Vehículo'])[1]/preceding::span[2]</value>
+      <webElementGuid>ee4be0f8-52fb-43b3-b08f-49cd484ec43b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tipo de Residuo']/parent::*</value>
+      <webElementGuid>bb86203c-ed6e-4571-a178-faaaee24976b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/ul/li/a/span[2]</value>
+      <webElementGuid>6b1d78bb-a483-48e3-8f9e-67708bfe654d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tipo de Residuo' or . = 'Tipo de Residuo')]</value>
+      <webElementGuid>833bb885-957e-4b5c-89fb-ddac9cbe2195</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Se probara el alta valido de un tipo de residuo, dentro de la interfaz tipo de residuo.</description>
+   <name>Alta Tipo de Residuo</name>
+   <tag>Interfaces, Administrador, Gestion</tag>
+   <comment></comment>
+   <testCaseGuid>afa9ff93-ebf4-4754-adca-3aa9d437d16a</testCaseGuid>
+</TestCaseEntity>

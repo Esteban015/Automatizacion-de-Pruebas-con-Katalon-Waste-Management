@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Se probara el alta valido de una ruta, dentro de la interfaz tipo de Rutas.</description>
+   <name>Alta Rutas</name>
+   <tag>Proveedor, Rutas, Interfaces</tag>
+   <comment></comment>
+   <testCaseGuid>1f8ba3b4-5ece-4ab0-969d-5f7bf88ae13f</testCaseGuid>
+</TestCaseEntity>

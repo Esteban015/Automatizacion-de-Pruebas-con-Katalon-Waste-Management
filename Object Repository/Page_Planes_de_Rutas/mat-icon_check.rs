@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_check</name>
+   <tag></tag>
+   <elementGuidId>e70887c3-d856-4219-865c-017593af1592</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.btn-just-icon.btn-round.mat-mini-fab.mat-accent.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > mat-icon.mat-icon.material-icons</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'check' or . = 'check')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/app-route-plan-info-modal/div[2]/button[2]/span/mat-icon
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>f4f3e14e-1d0e-4dfc-bcf1-be8f7ce49b86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon material-icons</value>
+      <webElementGuid>b076c35c-205e-4e8e-b4ed-522ec4a5c3a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4870c42b-b902-4a23-a466-f5771a0dd42c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2af583bf-6b25-4c36-961c-e17e7259c0c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>check</value>
+      <webElementGuid>3c1f86c9-bad1-4956-ab1e-edbec9d5a802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/app-route-plan-info-modal[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mat-dialog-actions&quot;]/button[@class=&quot;btn btn-primary btn-just-icon btn-round mat-mini-fab mat-accent cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon material-icons&quot;]</value>
+      <webElementGuid>5c2d08f4-1a4f-4c8e-97c8-91151c5fb91e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/app-route-plan-info-modal/div[2]/button[2]/span/mat-icon</value>
+      <webElementGuid>4f37c37d-3c2e-4f6b-b01d-1270da5755d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Datos de mapas ©2022 Google'])[4]/following::mat-icon[2]</value>
+      <webElementGuid>f2f92384-1fbb-43c7-9cd3-a7d9526d509c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notificar un problema de Maps'])[2]/following::mat-icon[2]</value>
+      <webElementGuid>d4b5b9d4-98da-47e2-a6d6-8f2a083bf9e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span/mat-icon</value>
+      <webElementGuid>5c7616bc-61dd-46ad-961d-4245fdc554ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'check' or . = 'check')]</value>
+      <webElementGuid>422e75ba-57b9-44cb-b40a-fae781c4f04c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

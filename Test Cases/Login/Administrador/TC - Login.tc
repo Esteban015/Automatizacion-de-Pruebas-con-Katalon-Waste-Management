@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Se crearan los casos de pruebas relacionado al Login del Admin.</description>
+   <name>TC - Login</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>cad7cb52-c7bf-48d0-9914-010fd8fb7e97</testCaseGuid>
+</TestCaseEntity>

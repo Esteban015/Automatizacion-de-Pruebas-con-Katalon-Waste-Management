@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Se probara el alta valido de un tipo de contenedor, dentro de la interfaz tipo de contenedor.</description>
+   <name>Alta Tipo de Contenedor</name>
+   <tag>Gestion, Interfaces, Cliente</tag>
+   <comment></comment>
+   <testCaseGuid>74862e75-2d2f-40a9-8ca1-ccde0504a778</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Se probara el alta valido de un tipo de vehiculo, dentro de la interfaz tipo de vehiculo.</description>
+   <name>Alta Tipo de Vehiculo</name>
+   <tag>Gestion, Interfaces, Administrador</tag>
+   <comment></comment>
+   <testCaseGuid>c2df9ee7-9951-4435-9e9e-39a70886f876</testCaseGuid>
+</TestCaseEntity>

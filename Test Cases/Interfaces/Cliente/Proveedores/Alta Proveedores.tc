@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alta Proveedores</name>
+   <tag>Proveedores, Cliente, Interfaces</tag>
+   <comment></comment>
+   <testCaseGuid>a47c7535-09a8-4a4d-acd2-05b2572909b9</testCaseGuid>
+</TestCaseEntity>

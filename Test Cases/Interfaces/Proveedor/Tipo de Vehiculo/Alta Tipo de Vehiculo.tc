@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alta Tipo de Vehiculo</name>
+   <tag>Interfaz, Proveedor, Tipo de Vehiculo</tag>
+   <comment></comment>
+   <testCaseGuid>cafcc5f4-a493-4d87-ac94-b90d1aef3318</testCaseGuid>
+</TestCaseEntity>

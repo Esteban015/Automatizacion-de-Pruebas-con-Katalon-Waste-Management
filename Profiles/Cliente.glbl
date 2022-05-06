@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Cliente</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Usuario de Cliente del Sistema de Waste</description>
+      <initValue>'cborer@example.org'</initValue>
+      <name>userCliente</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Contraseña de Cliente cborer@example.org del Sistema de Waste</description>
+      <initValue>'secret'</initValue>
+      <name>passCliente</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

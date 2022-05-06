@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Administrador</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Usuario de administrador del sistema Waste</description>
+      <initValue>'alliansys@alliansys.com.ar'</initValue>
+      <name>useradmin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Contraseña de usuario administrador del sistema Waste</description>
+      <initValue>'alliansys'</initValue>
+      <name>passAdmin</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

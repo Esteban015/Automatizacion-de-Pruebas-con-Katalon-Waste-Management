@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alta Usuario Cliente</name>
+   <tag>Interfaz, Cliente, Usuario</tag>
+   <comment></comment>
+   <testCaseGuid>3f28f0f1-592b-4f7f-af1f-690e8727b29d</testCaseGuid>
+</TestCaseEntity>

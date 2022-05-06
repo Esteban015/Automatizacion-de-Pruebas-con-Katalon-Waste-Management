@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Planes de Rutas</name>
+   <tag></tag>
+   <elementGuidId>725f07ef-9b9b-48f9-8c65-578f51260f36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#4 > ul.nav > li.nav-item > a.nav-link > span.sidebar-normal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='4']/ul/li/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e452222f-f264-4d64-b3d1-b84d7e66d1a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidebar-normal</value>
+      <webElementGuid>7b036eb8-9f3f-4a56-a73a-30a57f9de0c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Planes de Rutas</value>
+      <webElementGuid>aeb80e2f-9c3c-42d0-b296-5c132305ac08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;4&quot;)/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/span[@class=&quot;sidebar-normal&quot;]</value>
+      <webElementGuid>35935ab5-c376-4c6f-bc14-5ad40bce5045</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='4']/ul/li/a/span[2]</value>
+      <webElementGuid>3e84ff3d-10cb-4e0c-a4ac-e91c646900b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='map'])[1]/following::span[1]</value>
+      <webElementGuid>78d8bf8c-50f4-48d4-a6ac-8d9e33acf2bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='list_alt'])[1]/following::span[2]</value>
+      <webElementGuid>dd170e30-68b0-49a3-9684-4a56ee02b2a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='report_problem'])[1]/preceding::span[1]</value>
+      <webElementGuid>1ed7d891-97d6-4b66-9547-c5ab81bc16e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rutas'])[1]/preceding::span[2]</value>
+      <webElementGuid>c27a0db4-00fe-41d0-9566-0c898d36ab8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Planes de Rutas']/parent::*</value>
+      <webElementGuid>b3c1cb34-7624-4c26-9092-3de87ace799a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/ul/li/a/span[2]</value>
+      <webElementGuid>789833d3-2c15-4e00-a64f-2cdba76b8c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Planes de Rutas' or . = 'Planes de Rutas')]</value>
+      <webElementGuid>e4810618-1d0b-4628-ab9d-37fa28c7479f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

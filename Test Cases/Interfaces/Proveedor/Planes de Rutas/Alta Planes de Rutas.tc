@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Se probara el alta valido de un plan de ruta, dentro de la interfaz tipo de planes de rutas.</description>
+   <name>Alta Planes de Rutas</name>
+   <tag>Proveedor, Interfaces, Planes de Rutas</tag>
+   <comment></comment>
+   <testCaseGuid>7a52e41f-1094-4ffa-99ee-9248044b1f19</testCaseGuid>
+</TestCaseEntity>

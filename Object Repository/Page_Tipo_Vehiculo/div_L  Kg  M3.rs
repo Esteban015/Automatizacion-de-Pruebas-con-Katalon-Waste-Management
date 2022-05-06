@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_L  Kg  M3</name>
+   <tag></tag>
+   <elementGuidId>bd56bfce-126a-403e-a1d6-4020ee5cac83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-select-content.ng-trigger.ng-trigger-fadeInContent</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-1']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>26670b8d-0c7c-4f79-b03f-7b8eba936055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-content ng-trigger ng-trigger-fadeInContent</value>
+      <webElementGuid>32fe362b-bcf5-42eb-8eed-cc246a185344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> L  Kg  M3 </value>
+      <webElementGuid>93deff68-23c1-4195-8dc7-c683f9c3c877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-1&quot;)/div[@class=&quot;ng-trigger ng-trigger-transformPanel ng-tns-c5-6 mat-select-panel mat-primary ng-star-inserted mat-select-panel-done-animating&quot;]/div[@class=&quot;mat-select-content ng-trigger ng-trigger-fadeInContent&quot;]</value>
+      <webElementGuid>3af960e2-9575-4de8-89a5-c4906dfe69f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-1']/div/div</value>
+      <webElementGuid>7f91f30b-d94f-43c2-b6ef-3db7ff8e9349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-3', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::div[8]</value>
+      <webElementGuid>53fafb58-3ddc-4c7b-9ad6-9711bfab11ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Images'])[1]/following::div[10]</value>
+      <webElementGuid>1420e3df-36c7-473e-ad45-8cc07717e327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>ff8d4bef-3740-45b5-b810-99716edecb30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' L  Kg  M3 ' or . = ' L  Kg  M3 ')]</value>
+      <webElementGuid>742d0383-4798-4135-a815-0cbf22da2a0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

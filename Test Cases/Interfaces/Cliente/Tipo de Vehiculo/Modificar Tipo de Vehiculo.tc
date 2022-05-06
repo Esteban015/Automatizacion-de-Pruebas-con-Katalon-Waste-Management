@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Modificar Tipo de Vehiculo</name>
+   <tag>Cliente, Interfaces, Tipo de Vehiculo</tag>
+   <comment></comment>
+   <testCaseGuid>bac636ce-1a0e-4777-bb78-afde41510dec</testCaseGuid>
+</TestCaseEntity>

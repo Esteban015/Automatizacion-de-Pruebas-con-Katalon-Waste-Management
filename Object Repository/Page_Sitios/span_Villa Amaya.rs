@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Villa Amaya</name>
+   <tag></tag>
+   <elementGuidId>332fcb75-1ae3-4386-9367-83a1ca63ef9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-10']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-10 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>52045cdc-bd7b-4013-9f26-d8b0d587aeae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>21b55cd4-2fa2-4e19-8f09-b13e71fc907a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Villa Amaya </value>
+      <webElementGuid>c4cf4cc6-82b9-4b87-870e-d9b72cbf9825</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-10&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>eb40e905-2667-46c2-bd4e-5bbc0b940597</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-10']/span</value>
+      <webElementGuid>776bec08-74d5-43cb-a7ad-0966c9c90b1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Villa Esteban'])[1]/following::span[1]</value>
+      <webElementGuid>db785af9-b524-4128-8990-0f0e00e6a680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SandyBrown'])[1]/following::span[2]</value>
+      <webElementGuid>a886ad2c-cb3f-4221-8c60-c7bcc350323a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Villa Moreno'])[1]/preceding::span[1]</value>
+      <webElementGuid>59aae002-ecb6-4cf7-99f8-2a5e67285981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Villa Amaya']/parent::*</value>
+      <webElementGuid>936d1d27-beef-44da-b6c5-71308e4f3518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[3]/span</value>
+      <webElementGuid>151f2525-c4c9-47e2-aa9a-4d817162db29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Villa Amaya ' or . = ' Villa Amaya ')]</value>
+      <webElementGuid>0f645cf0-521c-4202-9bd5-d41e2171e44d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
