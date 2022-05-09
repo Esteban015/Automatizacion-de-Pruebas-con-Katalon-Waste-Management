@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://wm-front.vercel.app/auth/login?returnUrl=%2F')
 
-WebUI.setText(findTestObject('Object Repository/Page_Login/input_email_form-control'), GlobalVariable.useradmin)
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_email_form-control'), GlobalVariable.userAdmin)
 
 WebUI.setText(findTestObject('Object Repository/Page_Login/input_lock_outline_form-control'), GlobalVariable.passAdmin)
 

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>a9d39c38-11ef-4a3e-ab64-3f7ee0c70530</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d61f55ea-cfb1-4fee-910d-0d1db779ef0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;perfect-scrollbar-on&quot;]/body[@class=&quot;login-page off-canvas-sidebar&quot;]/app-my-app[1]/app-layout[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-panel ps ps--active-y&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/app-clients[1]/app-create[1]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/form[@class=&quot;ng-valid ng-dirty ng-touched&quot;]/div[@class=&quot;col-md-12&quot;]/agm-map[@class=&quot;sebm-google-map-container&quot;]/div[@class=&quot;agm-map-container-inner sebm-google-map-container-inner&quot;]/div[1]/div[@class=&quot;gm-style&quot;]/div[2]/div[2]/div[1]/div[3]/div[1]</value>
+      <webElementGuid>b3202e5a-8021-4b28-94c6-beb48501b2fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div</value>
+      <webElementGuid>fd2dfbed-8f3a-4059-98a4-4420d1f7f756</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

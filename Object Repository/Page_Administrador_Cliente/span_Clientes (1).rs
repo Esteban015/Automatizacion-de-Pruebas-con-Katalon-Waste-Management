@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Clientes (1)</name>
+   <tag></tag>
+   <elementGuidId>628d757a-422f-4639-96de-fcfee18e847d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#1 > ul.nav > li.nav-item > a.nav-link > span.sidebar-normal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='1']/ul/li/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>00aa6b76-afcd-446d-9709-9a1fd1c96da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidebar-normal</value>
+      <webElementGuid>15b17282-5f8d-4702-ba30-02f2008c0ec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clientes</value>
+      <webElementGuid>95da92b1-fe38-4d9b-9cac-00669ad8ff06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1&quot;)/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/span[@class=&quot;sidebar-normal&quot;]</value>
+      <webElementGuid>21d26325-58a4-40e9-a6d1-b38eed304e2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1']/ul/li/a/span[2]</value>
+      <webElementGuid>8767cb3a-b1aa-4224-a6f8-62aec6786aaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='info'])[1]/following::span[1]</value>
+      <webElementGuid>43c26791-678b-49b0-ab7c-8b5694c1dc92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='assessment'])[1]/following::span[2]</value>
+      <webElementGuid>ba6d0961-3778-4179-82db-711d7e952cc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='card_travel'])[1]/preceding::span[1]</value>
+      <webElementGuid>23dc4649-958d-428a-8f5c-9bf0696553da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Productos'])[1]/preceding::span[2]</value>
+      <webElementGuid>256fcd93-1fb9-40d1-b8d9-6af9457c9cb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Clientes']/parent::*</value>
+      <webElementGuid>2890606e-3e5a-48f7-b702-c3cae1f4fe21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/ul/li/a/span[2]</value>
+      <webElementGuid>5f880d86-2fd9-4be7-a354-2e2c12e76505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Clientes' or . = 'Clientes')]</value>
+      <webElementGuid>dbec58f6-88e3-4141-bad5-00ad19fa0e32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

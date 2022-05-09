@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Usuarios</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Usuario de administrador del sistema Waste</description>
+      <initValue>'alliansys@alliansys.com.ar'</initValue>
+      <name>userAdmin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Contraseña de usuario administrador del sistema Waste</description>
+      <initValue>'alliansys'</initValue>
+      <name>passAdmin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'cborer@example.org'</initValue>
+      <name>userCliente</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1234567'</initValue>
+      <name>passCliente</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'vwindler@example.org'</initValue>
+      <name>userProveedor</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'secret'</initValue>
+      <name>passProveedor</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -23,10 +23,9 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://wm-front.vercel.app/auth/login?returnUrl=%2F')
 
-WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Vehiculo_Proveedor/input_email_form-control'), 'vwindler@example.org')
+WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Vehiculo_Proveedor/input_email_form-control'), GlobalVariable.userProveedor)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Tipo_de_Vehiculo_Proveedor/input_lock_outline_form-control'), 
-    '373N5QL8KVQ=')
+WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Vehiculo_Proveedor/input_lock_outline_form-control'), GlobalVariable.passProveedor)
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Tipo_de_Vehiculo_Proveedor/input_lock_outline_form-control'), Keys.chord(
         Keys.ENTER))
