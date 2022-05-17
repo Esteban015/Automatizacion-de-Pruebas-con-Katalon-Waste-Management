@@ -25,7 +25,7 @@ WebUI.navigateToUrl('https://wm-front.vercel.app/auth/login?returnUrl=%2F')
 
 WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Contenedor/input_email_form-control'), GlobalVariable.userCliente)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Tipo_de_Contenedor/input_lock_outline_form-control'), GlobalVariable.passCliente)
+WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Contenedor/input_lock_outline_form-control'), GlobalVariable.passCliente)
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Tipo_de_Contenedor/input_lock_outline_form-control'), Keys.chord(Keys.ENTER))
 

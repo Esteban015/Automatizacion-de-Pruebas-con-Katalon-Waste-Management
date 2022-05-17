@@ -16,17 +16,17 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'cborer@example.org'</initValue>
+      <initValue>'pkertzmann@example.org'</initValue>
       <name>userCliente</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'1234567'</initValue>
+      <initValue>'secret'</initValue>
       <name>passCliente</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'vwindler@example.org'</initValue>
+      <initValue>'lkrajcik@example.net'</initValue>
       <name>userProveedor</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

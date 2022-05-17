@@ -23,37 +23,27 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://wm-front.vercel.app/auth/login?returnUrl=%2F')
 
-WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Vehiculo/input_email_form-control'), GlobalVariable.userCliente)
+WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Vehiculo2/input_email_form-control'), GlobalVariable.userCliente)
 
-WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Vehiculo/input_lock_outline_form-control'), GlobalVariable.passCliente)
+WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Vehiculo2/input_lock_outline_form-control'), GlobalVariable.passCliente)
 
-WebUI.sendKeys(findTestObject('Object Repository/Page_Tipo_de_Vehiculo/input_lock_outline_form-control'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Page_Tipo_de_Vehiculo2/input_lock_outline_form-control'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Vehiculo/p_Gestin'))
+WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Vehiculo2/b_build_caret'))
 
-WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Vehiculo/span_Tipo de Vehculo'))
+WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Vehiculo2/span_Tipo de Vehculo'))
 
-WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Vehiculo/td_Camin ALPA12'))
+WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Vehiculo2/td_Vehiculo N0001'))
 
-WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Vehiculo/i_edit'))
+WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Vehiculo2/i_edit'))
 
-WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Vehiculo/div_Bilateral_mat-select-arrow'))
+WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Vehiculo2/input_rv_hookup_name'), 'Vehiculo Nº 001')
 
-WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Vehiculo/span_Lateral'))
+WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Vehiculo2/input_Nombre_brand'), 'Iveco 2')
 
-WebUI.click(findTestObject('null'))
+WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Vehiculo2/input_Marca_vmodel'), 'Eurocargo 2022')
 
-WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Vehiculo/span_Camioneta'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Vehiculo/span_Kg'))
-
-WebUI.doubleClick(findTestObject('Object Repository/Page_Tipo_de_Vehiculo/input_L_liter_km'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Vehiculo/input_L_liter_km'), '3')
-
-WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Vehiculo/i_check_tipo_vehiculo'))
+WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Vehiculo2/i_check'))
 
 WebUI.delay(2)
 

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Sitio N4721</name>
+   <name>td_Vehiculo N0001</name>
    <tag></tag>
-   <elementGuidId>0cafc081-ab5e-4212-8df6-10b8300a2b7c</elementGuidId>
+   <elementGuidId>edb49d97-dcbb-4215-b9b7-46b46680ee66</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-4']/span</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#mat-option-26 > span.mat-option-text</value>
+         <key>XPATH</key>
+         <value>//table[@id='datatables']/tbody/tr[3]/td[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>3edc29f6-e7d7-408b-b294-4992061b8292</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>mat-option-text</value>
-      <webElementGuid>35f3dca3-ac61-473f-a0ef-db13f8378631</webElementGuid>
+      <value>td</value>
+      <webElementGuid>ee68ecb1-7f36-4424-9b2b-063ddae3c03b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Sitio N°4721 </value>
-      <webElementGuid>62bb9744-a6a3-4d28-b6d4-1818ccaf186c</webElementGuid>
+      <value>Vehiculo Nº0001</value>
+      <webElementGuid>4797109d-0d12-4835-8991-36afad7193a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-26&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>a8dbf07f-5858-4033-a21a-d6931d95c807</webElementGuid>
+      <value>id(&quot;datatables&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[2]</value>
+      <webElementGuid>541fafa4-0d15-42d3-9c13-4b3cbd3c92cc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-option[@id='mat-option-26']/span</value>
-      <webElementGuid>fd12ca54-cc9a-4bd6-83b4-4d23259c6fb3</webElementGuid>
+      <value>//table[@id='datatables']/tbody/tr[3]/td[2]</value>
+      <webElementGuid>9f8f8ccf-ba93-471e-9fec-8d28af27c399</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sitio N°1009'])[1]/following::span[1]</value>
-      <webElementGuid>fa0acfbc-d84b-4012-9cbb-dc663b48eaf7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bilateral'])[2]/following::td[2]</value>
+      <webElementGuid>5a584eb6-c277-4c71-a2b1-31b1185b4af3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sitio N°2493'])[1]/following::span[2]</value>
-      <webElementGuid>793e1170-374a-4083-87ab-1bada5e95203</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Camión'])[2]/following::td[3]</value>
+      <webElementGuid>d5df6b04-75ab-4e95-83b1-008c8816ed16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sitio N°3062'])[1]/preceding::span[1]</value>
-      <webElementGuid>dae35612-ef2e-4b0f-940e-a6bce3f519e7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Camión'])[3]/preceding::td[2]</value>
+      <webElementGuid>b691004f-229f-4ef9-8a61-f7c8d10e2e57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sitio N°4049'])[1]/preceding::span[2]</value>
-      <webElementGuid>21074372-8adb-4318-8112-c27dae3a9e94</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bilateral'])[3]/preceding::td[3]</value>
+      <webElementGuid>1cc8d555-1a72-441e-864f-158228a5f87c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Sitio N°4721']/parent::*</value>
-      <webElementGuid>5a84ed9a-968e-4dda-a251-40ee094d78e0</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Vehiculo Nº0001']/parent::*</value>
+      <webElementGuid>ecd3654c-b36e-46ea-8899-fd88c9095e11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-option[4]/span</value>
-      <webElementGuid>55429a13-f674-4104-923b-ab47472bde96</webElementGuid>
+      <value>//tr[3]/td[2]</value>
+      <webElementGuid>8df4d94a-8ea0-4bd1-9655-6b7f1e57e409</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' Sitio N°4721 ' or . = ' Sitio N°4721 ')]</value>
-      <webElementGuid>14a03c3b-f836-4e23-bf22-3d8b7993c9f8</webElementGuid>
+      <value>//td[(text() = 'Vehiculo Nº0001' or . = 'Vehiculo Nº0001')]</value>
+      <webElementGuid>ca4e9bca-cf43-4897-83cb-999264094eea</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
