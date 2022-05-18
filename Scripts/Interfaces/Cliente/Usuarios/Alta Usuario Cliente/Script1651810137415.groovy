@@ -45,6 +45,10 @@ WebUI.setText(findTestObject('Object Repository/Page_Usuario_Clientes/input_usua
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Usuario_Clientes/input_correo_mat-input-2'), 'qeJ0sjJnwEs=')
 
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Usuario_Clientes/i_check'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Usuario_Clientes/i_check'), 0)
+
 WebUI.click(findTestObject('Object Repository/Page_Usuario_Clientes/i_check'))
 
 WebUI.delay(2)

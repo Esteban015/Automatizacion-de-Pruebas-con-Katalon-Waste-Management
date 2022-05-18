@@ -33,6 +33,10 @@ WebUI.click(findTestObject('Object Repository/Page_Dispositivos/p_Gestin'))
 
 WebUI.click(findTestObject('Object Repository/Page_Dispositivos/span_Dispositivos'))
 
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Dispositivos/i_add'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Dispositivos/i_add'), 0)
+
 WebUI.click(findTestObject('Object Repository/Page_Dispositivos/i_add'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Dispositivos/input_cell_wifi_name'), 'Un Nombre')
@@ -54,6 +58,10 @@ WebUI.click(findTestObject('Object Repository/Page_Dispositivos/div_Contenedor_m
 WebUI.click(findTestObject('Object Repository/Page_Dispositivos/span_234234235'))
 
 WebUI.click(findTestObject('Object Repository/Page_Dispositivos/div_Registrado_mat-select-arrow'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Dispositivos/i_check'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Dispositivos/i_check'), 0)
 
 WebUI.click(findTestObject('Object Repository/Page_Dispositivos/i_check'))
 

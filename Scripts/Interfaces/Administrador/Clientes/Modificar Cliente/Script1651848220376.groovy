@@ -23,35 +23,46 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://wm-front.vercel.app/auth/login?returnUrl=%2F')
 
-WebUI.setText(findTestObject('Object Repository/Page_Administrador_Cliente/input_email_form-control (1)'), GlobalVariable.userAdmin)
+WebUI.setText(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/input_email_form-control'), GlobalVariable.userAdmin)
 
-WebUI.setText(findTestObject('Object Repository/Page_Administrador_Cliente/input_lock_outline_form-control (1)'), GlobalVariable.passAdmin)
+WebUI.setText(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/input_lock_outline_form-control'), 
+    GlobalVariable.passAdmin)
 
-WebUI.sendKeys(findTestObject('Object Repository/Page_Administrador_Cliente/input_lock_outline_form-control (1)'), Keys.chord(
-        Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/input_lock_outline_form-control'), 
+    Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Page_Administrador_Cliente/p_Administracin (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/p_Administracin'))
 
-WebUI.click(findTestObject('Object Repository/Page_Administrador_Cliente/span_Clientes (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/span_Clientes'))
 
-WebUI.click(findTestObject('Object Repository/Page_Administrador_Cliente/td_Ejemplo'))
+WebUI.click(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/div_infoLista de Clientesaddedit'))
 
-WebUI.click(findTestObject('Object Repository/Page_Administrador_Cliente/i_edit'))
+WebUI.click(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/td_Municipio de East Ludieside'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Administrador_Cliente/input_Datos del Cliente_client_name'), 'Ejemplo 2')
+WebUI.click(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/i_edit'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Administrador_Cliente/input_Nombre del Cliente_street (1)'), 'Dorrego 2')
+WebUI.setText(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/input_Datos del Cliente_client_name'), 
+    'Municipio de East Ludieside 2')
 
-WebUI.setText(findTestObject('Object Repository/Page_Administrador_Cliente/input_Calle del Cliente_street_number (1)'), 
-    '1292')
+WebUI.setText(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/input_Nombre del Cliente_street'), 
+    'Crystal Pine 2')
 
-WebUI.setText(findTestObject('Object Repository/Page_Administrador_Cliente/input_Altura de Calle_city (1)'), 'Oran2')
+WebUI.setText(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/input_Calle del Cliente_street_number'), 
+    '2037')
 
-WebUI.setText(findTestObject('Object Repository/Page_Administrador_Cliente/input_Ciudad del Cliente_state (1)'), 'Salta2')
+WebUI.setText(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/input_Altura de Calle_city'), 'New Jalynton 2')
 
-WebUI.click(findTestObject('Object Repository/Page_Administrador_Cliente/i_check (1)'))
+WebUI.setText(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/input_Ciudad del Cliente_state'), 
+    'Michigan 2')
 
-WebUI.delay(2)
+WebUI.setText(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/input_Provincia del Cliente_country'), 
+    'Mozambique 2')
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/i_check'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/i_check'), 0)
+
+WebUI.click(findTestObject('Object Repository/Page_Administrador_Cliente_Modificacion/i_check'))
 
 WebUI.closeBrowser()
 

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Tip prueba</name>
+   <name>td_Sitio N3559</name>
    <tag></tag>
-   <elementGuidId>80656b43-227d-44a0-9c26-8251b6400525</elementGuidId>
+   <elementGuidId>ce6c1c31-bc3d-463f-b013-758dba22e317</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-0']/span</value>
+         <value>//table[@id='datatables']/tbody/tr/td[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#mat-option-6 > span.mat-option-text</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>20fed1f4-c784-4748-9e8b-3a241be3d000</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>mat-option-text</value>
-      <webElementGuid>746945cd-6502-454d-a53d-a16bc4149435</webElementGuid>
+      <value>td</value>
+      <webElementGuid>4fd85f58-0d04-4f80-a0e0-b7d7f22a1be4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Tip prueba </value>
-      <webElementGuid>b77996c4-7470-4908-80cf-9d935f135e0f</webElementGuid>
+      <value>Sitio N°3559</value>
+      <webElementGuid>249773ac-2763-400a-8a1e-6ef7959434ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-6&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>4c932d93-fee1-4bed-a561-8205aed8b454</webElementGuid>
+      <value>id(&quot;datatables&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[3]</value>
+      <webElementGuid>13341abf-8939-4093-838d-eabcd806107f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-option[@id='mat-option-6']/span</value>
-      <webElementGuid>9295dd30-66ce-4f51-a660-afb200bbdc84</webElementGuid>
+      <value>//table[@id='datatables']/tbody/tr/td[3]</value>
+      <webElementGuid>40e1aeb5-8025-4226-b7ba-256d191ea78b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Container Green'])[2]/following::span[2]</value>
-      <webElementGuid>e26700ef-8001-4a8c-b6dd-3d48af7458db</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foto'])[2]/following::td[3]</value>
+      <webElementGuid>e27205f5-e42b-4c24-bb95-068f98da7499</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Container Green'])[1]/following::span[3]</value>
-      <webElementGuid>d930fa3c-a49f-4724-ad29-803af4846344</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contenido'])[1]/following::td[3]</value>
+      <webElementGuid>b354f19a-0934-44ec-ad54-b420c5e99490</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='prueba'])[2]/preceding::span[1]</value>
-      <webElementGuid>030d7654-10a1-413d-9810-9f55d79737b9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUBA 4338'])[1]/preceding::td[1]</value>
+      <webElementGuid>e149e9c1-a852-477e-b333-dcaa0b94ea80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Tip prueba']/parent::*</value>
-      <webElementGuid>66af131f-8318-408e-9806-72a09a4caafd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Papel'])[1]/preceding::td[3]</value>
+      <webElementGuid>29c2ff75-4586-4537-9f7b-33036d7482f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sitio N°3559']/parent::*</value>
+      <webElementGuid>3a628744-03a5-4cd7-881b-155de95bfad2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-option[7]/span</value>
-      <webElementGuid>c328f3d3-9495-4eae-8003-fce2f019dffb</webElementGuid>
+      <value>//td[3]</value>
+      <webElementGuid>694faf87-0355-460b-9eb9-94993c830cbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' Tip prueba ' or . = ' Tip prueba ')]</value>
-      <webElementGuid>d53b856e-98bb-429e-bd78-edaece1dd190</webElementGuid>
+      <value>//td[(text() = 'Sitio N°3559' or . = 'Sitio N°3559')]</value>
+      <webElementGuid>09c56a61-5824-4b31-a5d1-e0cd654ef810</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

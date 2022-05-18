@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Tip prueba</name>
+   <name>p_Administracin</name>
    <tag></tag>
-   <elementGuidId>80656b43-227d-44a0-9c26-8251b6400525</elementGuidId>
+   <elementGuidId>6d9907d4-3a7e-45dc-b1f0-1747ca5a1a49</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-0']/span</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='assessment'])[1]/following::p[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#mat-option-6 > span.mat-option-text</value>
+         <value>p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>20fed1f4-c784-4748-9e8b-3a241be3d000</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>mat-option-text</value>
-      <webElementGuid>746945cd-6502-454d-a53d-a16bc4149435</webElementGuid>
+      <value>p</value>
+      <webElementGuid>784ad41f-6ee9-4091-903f-40764f7dea7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Tip prueba </value>
-      <webElementGuid>b77996c4-7470-4908-80cf-9d935f135e0f</webElementGuid>
+      <value>Administración</value>
+      <webElementGuid>44c8eea3-3799-4488-9a02-537d6768899a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-6&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>4c932d93-fee1-4bed-a561-8205aed8b454</webElementGuid>
+      <value>/html[@class=&quot;perfect-scrollbar-on&quot;]/body[@class=&quot;login-page off-canvas-sidebar&quot;]/app-my-app[1]/app-layout[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;sidebar&quot;]/app-sidebar-cmp[1]/div[@class=&quot;sidebar-wrapper ps&quot;]/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/p[1]</value>
+      <webElementGuid>609a3f4b-9a67-466c-92c2-a220189f89ee</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//mat-option[@id='mat-option-6']/span</value>
-      <webElementGuid>9295dd30-66ce-4f51-a660-afb200bbdc84</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='assessment'])[1]/following::p[1]</value>
+      <webElementGuid>8cb46e10-1d5e-44ea-80ac-4403c20cd7c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Container Green'])[2]/following::span[2]</value>
-      <webElementGuid>e26700ef-8001-4a8c-b6dd-3d48af7458db</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salir'])[1]/following::p[1]</value>
+      <webElementGuid>1e9e3095-002b-49ca-9ec8-254c29202fe2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Container Green'])[1]/following::span[3]</value>
-      <webElementGuid>d930fa3c-a49f-4724-ad29-803af4846344</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='info'])[1]/preceding::p[1]</value>
+      <webElementGuid>721205f8-eb4b-49f7-bab1-9eda2d249a5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='prueba'])[2]/preceding::span[1]</value>
-      <webElementGuid>030d7654-10a1-413d-9810-9f55d79737b9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clientes'])[1]/preceding::p[1]</value>
+      <webElementGuid>6d0fa3ac-f291-4496-8956-ef6ced3fcb34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Tip prueba']/parent::*</value>
-      <webElementGuid>66af131f-8318-408e-9806-72a09a4caafd</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Administración']/parent::*</value>
+      <webElementGuid>daa4d4d6-4bd0-48c1-a40b-b9e481731494</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-option[7]/span</value>
-      <webElementGuid>c328f3d3-9495-4eae-8003-fce2f019dffb</webElementGuid>
+      <value>//p</value>
+      <webElementGuid>dd05115e-3b94-4855-9fcf-fcbdc6a52797</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' Tip prueba ' or . = ' Tip prueba ')]</value>
-      <webElementGuid>d53b856e-98bb-429e-bd78-edaece1dd190</webElementGuid>
+      <value>//p[(text() = 'Administración' or . = 'Administración')]</value>
+      <webElementGuid>91ca2989-7b4e-4de5-b506-619ef46ac278</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

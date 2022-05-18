@@ -40,7 +40,11 @@ WebUI.click(findTestObject('Object Repository/Page_Usuarios_Proveedor/td_Municip
 
 WebUI.click(findTestObject('Object Repository/Page_Usuarios_Proveedor/i_edit'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Usuarios_Proveedor/input_correo_mat-input-2 (1)'), 'qeJ0sjJnwEs=')
+WebUI.setText(findTestObject('Object Repository/Page_Usuarios_Proveedor/input_correo_mat-input-2 (1)'), 'secret')
+
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Usuarios_Proveedor/i_check (1)'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Usuarios_Proveedor/i_check (1)'), 0)
 
 WebUI.click(findTestObject('Object Repository/Page_Usuarios_Proveedor/i_check (1)'))
 

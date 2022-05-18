@@ -45,6 +45,10 @@ WebUI.click(findTestObject('Object Repository/Page_Proveedores/div_Usuario_mat-s
 
 WebUI.click(findTestObject('Object Repository/Page_Proveedores/span_Hudson LLC'))
 
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Proveedores/i_check (1)'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Proveedores/i_check (1)'), 0)
+
 WebUI.click(findTestObject('Object Repository/Page_Proveedores/i_check (1)'))
 
 WebUI.delay(2)

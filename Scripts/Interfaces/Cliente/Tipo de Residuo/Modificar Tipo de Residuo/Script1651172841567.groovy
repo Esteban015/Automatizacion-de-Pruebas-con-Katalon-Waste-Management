@@ -45,6 +45,10 @@ WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Residuo/div_Mximo_mat
 
 WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Residuo/span_Promedio'))
 
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Tipo_de_Residuo/i_check'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Tipo_de_Residuo/i_check'), 0)
+
 WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Residuo/i_check'))
 
 WebUI.delay(2)

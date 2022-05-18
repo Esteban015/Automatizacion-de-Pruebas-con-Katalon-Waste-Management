@@ -57,9 +57,19 @@ WebUI.click(findTestObject('Object Repository/Page_Sitios/div_Zona_mat-select-ar
 
 WebUI.click(findTestObject('Object Repository/Page_Sitios/span_Villa Amaya'))
 
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Sitios/div'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Sitios/div'), 0)
+
 WebUI.click(findTestObject('Object Repository/Page_Sitios/div'))
 
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Sitios/i_check'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Sitios/i_check'), 0)
+
 WebUI.click(findTestObject('Object Repository/Page_Sitios/i_check'))
+
+WebUI.delay(2)
 
 WebUI.closeBrowser()
 

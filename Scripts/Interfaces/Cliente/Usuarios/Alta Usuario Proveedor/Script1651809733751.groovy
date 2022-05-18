@@ -47,6 +47,10 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Usuarios_Proveedor
 
 WebUI.click(findTestObject('Object Repository/Page_Usuarios_Proveedor/i_check'))
 
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Usuarios_Proveedor/i_check'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Usuarios_Proveedor/i_check'), 0)
+
 WebUI.delay(2)
 
 WebUI.closeBrowser()

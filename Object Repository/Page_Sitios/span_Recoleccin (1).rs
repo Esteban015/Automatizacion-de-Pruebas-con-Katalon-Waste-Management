@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Tip prueba</name>
+   <name>span_Recoleccin (1)</name>
    <tag></tag>
-   <elementGuidId>80656b43-227d-44a0-9c26-8251b6400525</elementGuidId>
+   <elementGuidId>b40fc63b-0915-4562-ac16-a42454cf69e3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#mat-option-6 > span.mat-option-text</value>
+         <value>span.mat-option-text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>20fed1f4-c784-4748-9e8b-3a241be3d000</webElementGuid>
+      <webElementGuid>a82d4f0e-e684-4dbd-846b-de7ec0146066</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,78 +30,78 @@
       <name>class</name>
       <type>Main</type>
       <value>mat-option-text</value>
-      <webElementGuid>746945cd-6502-454d-a53d-a16bc4149435</webElementGuid>
+      <webElementGuid>6261f182-b113-4692-9168-fa4e8c69784c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Tip prueba </value>
-      <webElementGuid>b77996c4-7470-4908-80cf-9d935f135e0f</webElementGuid>
+      <value> Recolección </value>
+      <webElementGuid>da86df41-7177-42ab-94f2-32674aa272df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-6&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>4c932d93-fee1-4bed-a561-8205aed8b454</webElementGuid>
+      <value>id(&quot;mat-option-0&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>def19387-4a6c-443b-9e35-1fc5ddf82868</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-option[@id='mat-option-6']/span</value>
-      <webElementGuid>9295dd30-66ce-4f51-a660-afb200bbdc84</webElementGuid>
+      <value>//mat-option[@id='mat-option-0']/span</value>
+      <webElementGuid>1d0b55fb-30b9-4d36-b247-1e3edf1af5d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Container Green'])[2]/following::span[2]</value>
-      <webElementGuid>e26700ef-8001-4a8c-b6dd-3d48af7458db</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mat-option-0', '&quot;', ')/span[@class=', '&quot;', 'mat-option-text', '&quot;', ']')])[1]/following::span[1]</value>
+      <webElementGuid>433ee3e1-1885-47a2-bb02-277bbab44d47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Container Green'])[1]/following::span[3]</value>
-      <webElementGuid>d930fa3c-a49f-4724-ad29-803af4846344</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Images'])[1]/following::span[1]</value>
+      <webElementGuid>c044af36-d005-49e2-a5fe-ee627017c38f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='prueba'])[2]/preceding::span[1]</value>
-      <webElementGuid>030d7654-10a1-413d-9810-9f55d79737b9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Depósito'])[2]/preceding::span[1]</value>
+      <webElementGuid>3a51f2f6-47bc-4744-bfba-3cde7cb5c708</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Tip prueba']/parent::*</value>
-      <webElementGuid>66af131f-8318-408e-9806-72a09a4caafd</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Recolección']/parent::*</value>
+      <webElementGuid>723139ac-8e25-4678-aac9-96818eacda72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-option[7]/span</value>
-      <webElementGuid>c328f3d3-9495-4eae-8003-fce2f019dffb</webElementGuid>
+      <value>//mat-option/span</value>
+      <webElementGuid>27217f29-1ecf-4c29-89c9-f3e44da76393</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' Tip prueba ' or . = ' Tip prueba ')]</value>
-      <webElementGuid>d53b856e-98bb-429e-bd78-edaece1dd190</webElementGuid>
+      <value>//span[(text() = ' Recolección ' or . = ' Recolección ')]</value>
+      <webElementGuid>5c4e2bab-a0ae-419e-9611-bf2c0b4c1268</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

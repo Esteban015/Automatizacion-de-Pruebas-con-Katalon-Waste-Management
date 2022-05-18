@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_edit</name>
+   <tag></tag>
+   <elementGuidId>c637dd27-36af-4122-b30b-2dacae10f6cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[1]/following::i[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-warning.btn-just-icon.btn-round.float-right.mat-raised-button.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > i.material-icons</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>88b3620e-a4d5-4919-89dd-3558c86e31ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>c9f3de6d-92b2-473c-a82e-bc67c01791c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>edit</value>
+      <webElementGuid>c117dcec-872b-497b-b7fb-f5b00d302b72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;perfect-scrollbar-on&quot;]/body[@class=&quot;login-page off-canvas-sidebar&quot;]/app-my-app[1]/app-layout[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-panel ps&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/app-manager[1]/app-data-table-cmp[1]/div[@class=&quot;card&quot;]/div[@class=&quot;card-header card-header-success card-header-icon&quot;]/div[@class=&quot;toolbar&quot;]/button[@class=&quot;btn btn-warning btn-just-icon btn-round float-right mat-raised-button cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>401a27fb-19bf-48e9-bb6b-789bffc91345</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[1]/following::i[1]</value>
+      <webElementGuid>28d5bb45-5024-4d9c-be97-bfbd633c5616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lista de Sitios'])[1]/following::i[2]</value>
+      <webElementGuid>489ed786-a195-4b9e-a298-a9f972b92f19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foto'])[1]/preceding::i[1]</value>
+      <webElementGuid>4440da55-4894-4955-b376-a4502267ab38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='edit']/parent::*</value>
+      <webElementGuid>fe1cf448-b2dd-43db-a717-220391c5196e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span/i</value>
+      <webElementGuid>5256f5e2-ddc8-4da8-bb9a-a3f07f0e8b1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'edit' or . = 'edit')]</value>
+      <webElementGuid>9f41effb-0daa-4244-9964-04835976ad40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

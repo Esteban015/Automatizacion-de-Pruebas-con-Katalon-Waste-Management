@@ -44,6 +44,10 @@ WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Contenedor/input_La
 
 WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Contenedor/input_Altura en cm_volume (1)'), '100')
 
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Tipo_de_Contenedor/i_check (1)'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Tipo_de_Contenedor/i_check (1)'), 0)
+
 WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Contenedor/i_check (1)'))
 
 WebUI.delay(2)

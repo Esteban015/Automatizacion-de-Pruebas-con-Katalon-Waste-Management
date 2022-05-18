@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_check</name>
+   <tag></tag>
+   <elementGuidId>56839fe9-be3a-457f-bd5f-8f7c95111c52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Datos de mapas ©2022'])[2]/following::i[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.btn-just-icon.btn-round.float-right.mat-raised-button.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > i.material-icons</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e089596b-1524-499c-b75b-5955e2b9ce7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>d2d78a28-7695-4bca-9db9-38f2e72c7715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>check</value>
+      <webElementGuid>c6097a05-f180-4f0f-8c85-7bb0e4ab83b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;perfect-scrollbar-on&quot;]/body[@class=&quot;login-page off-canvas-sidebar&quot;]/app-my-app[1]/app-layout[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-panel ps ps--active-y&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/app-clients[1]/app-edit[1]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/form[@class=&quot;ng-valid ng-dirty ng-touched&quot;]/div[@class=&quot;col-md-12&quot;]/button[@class=&quot;btn btn-primary btn-just-icon btn-round float-right mat-raised-button cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>3c25c1fc-987e-4058-ad7d-331e045d4525</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Datos de mapas ©2022'])[2]/following::i[1]</value>
+      <webElementGuid>cb7f2858-8172-4a3c-b50f-6de410ed6b81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notificar un problema de Maps'])[1]/following::i[1]</value>
+      <webElementGuid>1e619c7b-7fd9-425e-bbe4-9cc36b3588be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[1]/preceding::i[1]</value>
+      <webElementGuid>6cdd02ff-dba9-470c-9a56-c44b0c47c0a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sidebar Filters'])[1]/preceding::i[3]</value>
+      <webElementGuid>2e2ca951-bfd7-440a-8885-8de4643ca104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='check']/parent::*</value>
+      <webElementGuid>dc18f769-3cf5-4934-bed3-223b6c95a072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span/i</value>
+      <webElementGuid>757aa9c1-a340-4ad0-85c8-6313b4a40142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'check' or . = 'check')]</value>
+      <webElementGuid>2596237b-54af-45bc-9567-48ff4f0a66c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

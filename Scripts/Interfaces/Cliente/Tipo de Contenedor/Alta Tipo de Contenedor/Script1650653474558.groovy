@@ -47,6 +47,10 @@ WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Contenedor/div_Lado d
 
 WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Contenedor/span_Bilateral'))
 
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Tipo_de_Contenedor/i_check'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Tipo_de_Contenedor/i_check'), 0)
+
 WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Contenedor/i_check'))
 
 WebUI.delay(2)

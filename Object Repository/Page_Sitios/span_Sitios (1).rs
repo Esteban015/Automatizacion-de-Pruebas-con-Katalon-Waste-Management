@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Tip prueba</name>
+   <name>span_Sitios (1)</name>
    <tag></tag>
-   <elementGuidId>80656b43-227d-44a0-9c26-8251b6400525</elementGuidId>
+   <elementGuidId>96d391e5-860a-40cb-a511-10c82dfd67d2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//mat-option[@id='mat-option-0']/span</value>
+         <value>//div[@id='2']/ul/li[5]/a/span[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#mat-option-6 > span.mat-option-text</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,86 +22,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>20fed1f4-c784-4748-9e8b-3a241be3d000</webElementGuid>
+      <webElementGuid>1a4dcde6-d8eb-49e1-9dff-346b0b6985b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>mat-option-text</value>
-      <webElementGuid>746945cd-6502-454d-a53d-a16bc4149435</webElementGuid>
+      <value>sidebar-normal</value>
+      <webElementGuid>fb4c79ac-f2c7-4b4b-a494-304d5568b34f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Tip prueba </value>
-      <webElementGuid>b77996c4-7470-4908-80cf-9d935f135e0f</webElementGuid>
+      <value>Sitios</value>
+      <webElementGuid>05ae7433-1fd9-43f2-b309-c1a3f5a8adf6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mat-option-6&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
-      <webElementGuid>4c932d93-fee1-4bed-a561-8205aed8b454</webElementGuid>
+      <value>id(&quot;2&quot;)/ul[@class=&quot;nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/span[@class=&quot;sidebar-normal&quot;]</value>
+      <webElementGuid>6a7997e0-750d-43ae-b6d2-68b5c0e34b93</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//mat-option[@id='mat-option-6']/span</value>
-      <webElementGuid>9295dd30-66ce-4f51-a660-afb200bbdc84</webElementGuid>
+      <value>//div[@id='2']/ul/li[5]/a/span[2]</value>
+      <webElementGuid>0c8eb9d6-0bab-4303-9411-f9a7a07385d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Container Green'])[2]/following::span[2]</value>
-      <webElementGuid>e26700ef-8001-4a8c-b6dd-3d48af7458db</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='place'])[1]/following::span[1]</value>
+      <webElementGuid>52c8404f-ad0d-4718-b9f5-9bd33aee07bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Container Green'])[1]/following::span[3]</value>
-      <webElementGuid>d930fa3c-a49f-4724-ad29-803af4846344</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zonas'])[1]/following::span[2]</value>
+      <webElementGuid>26a4a2b1-a80d-409f-a573-275730321bd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='prueba'])[2]/preceding::span[1]</value>
-      <webElementGuid>030d7654-10a1-413d-9810-9f55d79737b9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='delete'])[1]/preceding::span[1]</value>
+      <webElementGuid>a5f1ea72-457e-4fcf-bcc6-84b340245835</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Tip prueba']/parent::*</value>
-      <webElementGuid>66af131f-8318-408e-9806-72a09a4caafd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contenedores'])[1]/preceding::span[2]</value>
+      <webElementGuid>06b62859-bb33-466b-85e0-055cbb07d016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sitios']/parent::*</value>
+      <webElementGuid>70eca37a-c213-48fa-8788-ff4e6be102c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//mat-option[7]/span</value>
-      <webElementGuid>c328f3d3-9495-4eae-8003-fce2f019dffb</webElementGuid>
+      <value>//li[5]/a/span[2]</value>
+      <webElementGuid>dbd8963e-a769-4ac5-a124-cc42c061a2bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = ' Tip prueba ' or . = ' Tip prueba ')]</value>
-      <webElementGuid>d53b856e-98bb-429e-bd78-edaece1dd190</webElementGuid>
+      <value>//span[(text() = 'Sitios' or . = 'Sitios')]</value>
+      <webElementGuid>29fb68b7-32fc-446e-9639-acf6df118dbd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

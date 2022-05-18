@@ -54,6 +54,10 @@ WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Residuo/input_Unida
 
 WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Residuo/input_Conversin a M3_max_days_between_pickup'), '5')
 
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Tipo_de_Residuo/i_check'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Tipo_de_Residuo/i_check'), 0)
+
 WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Residuo/i_check'))
 
 WebUI.delay(2)

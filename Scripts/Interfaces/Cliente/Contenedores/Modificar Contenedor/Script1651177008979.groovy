@@ -51,6 +51,10 @@ WebUI.click(findTestObject('Object Repository/Page_Contenedor/div_Sitio N4721_ma
 
 WebUI.click(findTestObject('Object Repository/Page_Contenedor/span_Sitio N2493'))
 
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Contenedor/i_check'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Contenedor/i_check'), 0)
+
 WebUI.click(findTestObject('Object Repository/Page_Contenedor/i_check'))
 
 WebUI.delay(2)

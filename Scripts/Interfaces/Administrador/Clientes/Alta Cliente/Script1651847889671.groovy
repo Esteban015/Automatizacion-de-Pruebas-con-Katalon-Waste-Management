@@ -64,7 +64,9 @@ WebUI.click(findTestObject('Object Repository/Page_Administrador_Cliente/div_Rol
 
 WebUI.click(findTestObject('Object Repository/Page_Administrador_Cliente/span_Rol Cliente'))
 
-WebUI.click(findTestObject('Object Repository/Page_Administrador_Cliente/div'))
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Administrador_Cliente/i_check'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Administrador_Cliente/i_check'), 0)
 
 WebUI.click(findTestObject('Object Repository/Page_Administrador_Cliente/i_check'))
 

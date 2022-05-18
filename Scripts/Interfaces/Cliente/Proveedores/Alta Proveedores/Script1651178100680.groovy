@@ -55,6 +55,10 @@ WebUI.click(findTestObject('Object Repository/Page_Proveedores/div_Rol de Usuari
 
 WebUI.click(findTestObject('Object Repository/Page_Proveedores/span_Rol Proveedor'))
 
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Proveedores/i_check'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Proveedores/i_check'), 0)
+
 WebUI.click(findTestObject('Object Repository/Page_Proveedores/i_check'))
 
 WebUI.delay(2)

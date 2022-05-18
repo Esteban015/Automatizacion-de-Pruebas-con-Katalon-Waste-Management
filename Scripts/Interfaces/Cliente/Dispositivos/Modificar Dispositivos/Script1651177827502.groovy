@@ -53,6 +53,10 @@ WebUI.doubleClick(findTestObject('Object Repository/Page_Dispositivos/input_Nume
 
 WebUI.setText(findTestObject('Object Repository/Page_Dispositivos/input_Numero de Serie_imei'), '1231423423423')
 
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Dispositivos/i_check'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Dispositivos/i_check'), 0)
+
 WebUI.click(findTestObject('Object Repository/Page_Dispositivos/i_check'))
 
 WebUI.delay(2)

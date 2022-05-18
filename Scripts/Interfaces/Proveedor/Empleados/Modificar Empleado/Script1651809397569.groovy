@@ -47,6 +47,10 @@ WebUI.click(findTestObject('Object Repository/Page_Empleados/div_MarceloLopez_ma
 
 WebUI.click(findTestObject('Object Repository/Page_Empleados/span_ejemplo'))
 
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Empleados/i_check (1)'), 0)
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Empleados/i_check (1)'), 0)
+
 WebUI.click(findTestObject('Object Repository/Page_Empleados/i_check (1)'))
 
 WebUI.delay(2)

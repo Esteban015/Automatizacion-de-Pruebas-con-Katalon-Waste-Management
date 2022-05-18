@@ -64,9 +64,9 @@ WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Vehiculo_Proveedor/
 
 WebUI.setText(findTestObject('Object Repository/Page_Tipo_de_Vehiculo_Proveedor/input_LKm_co_km'), '2')
 
-WebUI.scrollToPosition(99999, 99999)
+WebUI.scrollToElement(findTestObject('Object Repository/Page_Tipo_de_Vehiculo_Proveedor/i_check'), 0)
 
-WebUI.delay(2)
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Tipo_de_Vehiculo_Proveedor/i_check'), 0)
 
 WebUI.click(findTestObject('Object Repository/Page_Tipo_de_Vehiculo_Proveedor/i_check'))
 
